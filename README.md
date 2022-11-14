@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="cneter"> Coffee drinkin, hard thinkin, American coder. </h3>
+<h3 align="cneter"> Coffee drinkin, Hard Thinkin, American Coder. </h3>
 
 
 - 🔭 I’m currently working on [CS50W!](https://github.com/Caleb-Ellefson/CS50W)
