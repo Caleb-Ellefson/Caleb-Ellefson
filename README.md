@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="cneter"> Coffee drinkin, hard thinkin, American coder. </h3>
-<img align="right" alt="coding" width="498" src="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
+
 
 - 🔭 I’m currently working on [CS50W!](https://github.com/Caleb-Ellefson/CS50W)
 
