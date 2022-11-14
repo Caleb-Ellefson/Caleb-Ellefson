@@ -1,10 +1,8 @@
-[![MasterHead](https://i.gifer.com/MQFv.gif)](https://caleb-ellefson.io)
+
 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="cneter"> Coffee drinkin, hard thinkin, American coder. </h3>
 <img align="right" alt="coding" width="498" src="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb-ellefson&label=Profile%20views&color=0e75b6&style=flat" alt="caleb-ellefson" /> </p>
 
 - 🔭 I’m currently working on [CS50W!](https://github.com/Caleb-Ellefson/CS50W)
 
