@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Store.API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
+- 👨‍💻 Check out my other projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
 
 - 💬 Ask me about **Python, Javascript, HTML, CSS.**
 
