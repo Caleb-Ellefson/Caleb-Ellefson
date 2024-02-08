@@ -6,15 +6,11 @@
 
 - 🔭 I’m currently working on [CS50W!](https://github.com/Caleb-Ellefson/CS50W)
 
-- 🌱 I’m currently learning **Git, Javascript, bootstrap.**
-
-- 👯 I’m looking to collaborate on **Store.API**
-
-- 🤝 I’m looking for help with **Store.API**
+- 🌱 I’m currently learning **Git, Embedded C++, And MERN.**
 
 - 👨‍💻 Check out my other projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
 
-- 💬 Ask me about **Python, Javascript, HTML, CSS.**
+- 💬 Ask me about **React,MongoDB, Node.Js, Express.js, Javascript, HTML, CSS.**
 
 - 📫 How to reach me **Calebroger@gmail.com**
 
