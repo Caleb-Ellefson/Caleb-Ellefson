@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="cneter"> Coffee drinkin, Hard Thinkin, American Coder. </h3>
 
 
-- 🔭 I’m currently working on [CS50W!](https://github.com/Caleb-Ellefson/CS50W)
+
+- 🔭 I’m currently working on [Split-Flap Clock!](https://github.com/Caleb-Ellefson/Click-Clack-Embedded)
 
 - 🌱 I’m currently learning **Git, Embedded C++, And MERN.**
 
 - 👨‍💻 Check out my other projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
 
-- 💬 Ask me about **React,MongoDB, Node.Js, Express.js, Javascript, HTML, CSS.**
+- 💬 Ask me about **React,C++,MongoDB, Node.Js, Express.js, Javascript, HTML, CSS.**
 
 - 📫 How to reach me **Calebroger@gmail.com**
 
