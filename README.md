@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently losing my hair learning **Embedded C++, Bare Metal Programming, and RTOS.**
 
-- 👨‍💻 Explore my embedded systems projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
+- 👨‍💻 Explore some of my projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
 
-- 💬 Ask me about **Microcontrollers (STM32, ESP8266, MSP430), Embedded C++, Circuit Design, Serial Protocols (SPI, I2C, UART), and Digital Signal Processing.**
+- 💬 Ask me about this cool stuff ---> **Microcontrollers (STM32, ESP8266, MSP430), Embedded C++, Circuit Design, Serial Protocols (SPI, I2C, UART), and Digital Signal Processing.**
 
 - 📫 How to reach me **Calebroger@gmail.com**
 
