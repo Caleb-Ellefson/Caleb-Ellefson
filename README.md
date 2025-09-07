@@ -5,7 +5,7 @@
 
 - 🤖 I’m currently working on [Bare Metal Programming!](https://github.com/Caleb-Ellefson/STM32)
 
-- 🌱 I’m currently losing my hair learning **Embedded C++ driver development and Bare Metal Programming.**
+- 🌱 I’m currently learning **Embedded C++ driver development and Bare Metal Programming.**
 
 - 👨‍💻 Explore some of my projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
 
