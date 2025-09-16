@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Caleb</h1>
-<p align="left"> I am a results-driven student with hands-on experience in developing and optimizing both hardware and software systems. With a passion to build complex projects and apply technical skills to drive innovative solutions and successful outcomes.</p>
+<p align="left"> I am a Embedded Software Enginner passionate about microcontrollers, bare metal programming, and embedded C++ driver development. Here you'll find projects ranging from STM32 bare metal programming to ESP32/ESP8266 IoT applications.</p>
 
 ---
 
