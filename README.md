@@ -1,39 +1,37 @@
 <h1 align="center">Hey there 👋, I'm Caleb</h1>
-<p align="left"> I am a Embedded Software Enginner passionate about microcontrollers, bare metal programming, and embedded C++ driver development. Here you'll find projects ranging from STM32 bare metal programming to ESP32/ESP8266 IoT applications.</p>
+<p align="left">I am an <b>Associate Embedded Software Engineer</b> passionate about building robust, real-time systems. My expertise spans low-level driver development, RTOS integration, and creating end-to-end IoT platforms. I thrive on solving complex problems in resource-constrained environments.</p>
 
 ---
 
-- 🤖 I’m currently working on [Bare Metal Programming!](https://github.com/Caleb-Ellefson/STM32)
+<h3 align="left">💡 Focus & Expertise:</h3>
 
-- 🌱 I’m currently learning **Embedded C++ driver development and Bare Metal Programming.**
-
-- 👨‍💻 Explore some of my projects! [https://github.com/Caleb-Ellefson](https://github.com/Caleb-Ellefson)
-
-- 💬 Ask me about this cool stuff ---> **Microcontrollers (STM32, ESP8266, MSP430), Embedded C++, Circuit Design, Serial Protocols (SPI, I2C, UART), and Digital Signal Processing.**
-
-- 📫 How to reach me **Calebroger@gmail.com**
-
-- 📄 Learn more about my experiences [LinkedIn Profile](https://www.linkedin.com/in/caleb-ellefson-902367161/)
+* **Architectures:** ARM Cortex-M (STM32), RISC-V/Xtensa (ESP32-C6), AMD/Xilinx **Versal ACAP**.
+* **Operating Systems:** **Zephyr RTOS**, Linux (U-Boot, Device Tree), Bare-Metal Programming.
+* **Networking/Protocols:** Ethernet (PHY/MAC), LoRaWAN, ESP-NOW, I2C, SPI, UART.
+* **DevOps/Tooling:** CI/CD Automation (Robot Framework, Docker), Vitis, Lopper, PlatformIO.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/caleb-ellefson-902367161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caleb-ellefson" height="30" width="40" /></a>
-</p>
+<h3 align="left">💻 Projects & Current Focus:</h3>
+
+* **Current Focus:** Deep diving into bare-metal programming and advanced **Embedded C++ driver development.**
+* **Featured Project:** GrowByte (Secure, Full-Stack IoT soil monitoring system with **ESP32-C6** and **ESP-NOW** communication).
+* **Research:** Developed a High-Altitude Balloon platform using **Zephyr RTOS** and LoRaWAN for constrained systems.
+
+---
+
+<h3 align="left">💬 Let's Connect:</h3>
+
+* **Email:** Calebroger@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/Caleb-Ellefson/](https://www.linkedin.com/in/Caleb-Ellefson/)
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/640px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
 </p>
